@@ -14,10 +14,10 @@ I've been learning to code for 5 years, after completing a bootcamp in 2022, i'm
 My Values
 --------------------------
 
-🧠 Thoughtful & Inclusive Development
-🖤 Authentic Expression
-💡 Mindset of Learning & Curiosity
-🙌🏾 Teamwork & Communication
+* 🧠 Thoughtful & Inclusive Development
+* 🖤 Authentic Expression
+* 💡 Mindset of Learning & Curiosity
+* 🙌🏾 Teamwork & Communication
 ### Skills
 
 
