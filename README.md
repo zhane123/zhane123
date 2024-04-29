@@ -12,6 +12,7 @@ I've been learning to code for 5 years, after completing a bootcamp in 2022, i'm
 * 🤝🏾 I'm open to collaborating on Interesting projections
 
 My Values
+--------------------------
 
 🧠 Thoughtful & Inclusive Development
 🖤 Authentic Expression
