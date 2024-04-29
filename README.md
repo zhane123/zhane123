@@ -1,4 +1,4 @@
-Hi 👋 My name is Zhané Simpson
+Hi 👋🏾 My name is Zhané Simpson
 ==============================
 
 Web Developer and Designer
@@ -8,9 +8,15 @@ I've been learning to code for 5 years, after completing a bootcamp in 2022, i'm
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [zhanesimpson@yahoo.co.uk](mailto:zhanesimpson@yahoo.co.uk)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Interesting projections
+* 🧠 I'm learning Flutter
+* 🤝🏾 I'm open to collaborating on Interesting projections
 
+My Values
+
+🧠 Thoughtful & Inclusive Development
+🖤 Authentic Expression
+💡 Mindset of Learning & Curiosity
+🙌🏾 Teamwork & Communication
 ### Skills
 
 
